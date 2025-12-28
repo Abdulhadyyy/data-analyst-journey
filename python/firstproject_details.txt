@@ -1,0 +1,36 @@
+Problem Statement
+In modern software applications, calculators are widely used tools that require designing and
+developing efficient, interactive user interfaces for performing mathematical computations.
+Students are required to develop a web-based calculator application that allows users to
+perform basic arithmetic operations in an intuitive and interactive manner.
+The application must leverage Python programming for backend calculations and Streamlit
+to provide a responsive, web-based frontend interface. This project emphasizes the ability to
+apply programming concepts, modular design, and user interface development skills to create
+a functional software solution.
+Project Requirements
+1. System Design and Input Handling:
+ Design a user interface using Streamlit that allows the user to input two numerical
+values.
+ Provide options to select arithmetic operations, including addition, subtraction,
+multiplication, and division.
+ Ensure input validation to prevent invalid or non-numeric entries.
+2. Computation and Logic Development:
+ Develop Python functions that perform the selected arithmetic operation on the input
+values.
+ Ensure proper error handling, such as division by zero.
+ Apply modular programming principles to separate the calculation logic from the
+interface code.
+
+Output and Result Display
+ Display the computed result clearly on the Streamlit interface.
+ Allow users to modify inputs or operation choices and instantly see updated results.
+References:
+https://www.w3schools.com/python/
+https://www.youtube.com/watch?v=9D4ArtTkXBw
+Alternatives to the Calculator Application:
+ Grade Calculator
+ BMI Calculator
+ Simple Expense Tracker
+ Temperature Converter
+ To-Do List Tracker
+ Other (please inform me in advance before choosing an alternative)
