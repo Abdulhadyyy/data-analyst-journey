@@ -1,0 +1,18 @@
+ASSIGNMENT 04 (CLO 4)
+
+Question 1:
+Develop a C++ program for a library management system that uses a structure to store
+information about a book. The program should define a structure named Book containing the
+book ID, title, author name, and price.
+It should use functions that accept structure variables by value. One function, getBook(),
+should take a Book structure as a parameter, prompt the user to enter the book details, and
+return the updated structure. Another function, showBook(), should accept a Book structure by
+value and display the book information.
+In the main() function, declare a Book structure variable, call getBook() to input the data, and
+then call showBook() to display the stored information.
+
+Question 2:
+Write a C++ program that uses a structure named Employee containing an employee ID and
+employee name. Create a function named createEmployee() that assigns values to the structure
+members and returns the structure. In the main() function, receive the returned structure and
+display the employee details.
